@@ -21,7 +21,7 @@ This helps in organizing files by type, making your directory structure cleaner 
 
    ```bash
    git clone https://github.com/programmingwithprince/Organize-files-into-folders.git
-
+      ```
 2.Navigate to the project directory:
   ```bash
   cd Organize-files-into-folders

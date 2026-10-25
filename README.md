@@ -19,18 +19,17 @@ This helps in organizing files by type, making your directory structure cleaner 
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/programmingwithprince/Organize-files-into-folders.git
-      ```
+  ```bash
+  git clone https://github.com/programmingwithprince/Organize-files-into-folders.git
+  ```
 2.Navigate to the project directory:
   ```bash
   cd Organize-files-into-folders
-
- ```
-
+  ```
 
 
-   ## 🚀Usage
+
+## 🚀Usage
 1. Set the `dir` variable to the directory you want to organize:
 2. Update the `dir` variable with the path to the directory you want to organize:
    ```javascript
